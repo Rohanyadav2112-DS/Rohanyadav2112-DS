@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rohan Yadav! 👋</h1>
+<h1 align="center">Hi, I'm Rohan Yadav! </h1>
 
 🎓 MSc Data Science and Artificial Intelligence student at Aston University, Birmingham, UK.
 
@@ -19,10 +19,6 @@ I'm passionate about **Data Science, Machine Learning, and Data Analytics**. I e
 - **Visualisation:** Matplotlib, Power BI
 - **Machine Learning:** Scikit-learn, Linear Regression, Random Forest
 - **Tools:** Jupyter Notebook, Git, GitHub
-
-## 🚀 Featured Projects
-
-- 🏡 **[House Price Prediction](https://github.com/Rohanyadav2112-DS/house-price-prediction)** — A machine learning project comparing Linear Regression and Random Forest models to predict house values using the California Housing dataset.
 
 ## 🤝 Connect with me
 
