@@ -9,7 +9,7 @@ I'm passionate about **Data Science, Machine Learning, and Data Analytics**. I e
 - 👨‍💻 **My projects:** Explore my repositories here on [GitHub](https://github.com/Rohanyadav2112-DS).
 - 📊 **Interests:** Data Science, Predictive Modelling, Data Visualisation, and AI.
 - 💼 **Career goal:** Seeking opportunities to apply my skills through internships and entry-level roles in Data Science and Analytics.
-- 📫 **Contact:** [Email me](mailto:YOUR_EMAIL@gmail.com).
+- 📫 **Contact:** [Email me](mailto:yrohan2112@gmail.com).
 - 🔗 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_PROFILE_URL).
 
 ## 🛠️ Skills & Technologies
