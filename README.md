@@ -1,6 +1,6 @@
-### Hi, I'm Rohan 👋
+###                                             Hi, I'm Rohan Yadav
 
-Incoming MSc Data Science student at Aston University (Sept 2026) | Python · SQL · Machine Learning · Data Analytics
+MSc Data Science student at Aston University (Sept 2026) | Python · SQL · Machine Learning · Data Analytics
 
 - 🔭 Currently building end-to-end ML projects and sharpening my stats/ML foundations ahead of my MSc
 - 💼 Previously: Data Analyst Intern @ SkillCraft Technology · Data Science Intern @ Cognifyz IT Solutions
