@@ -1,4 +1,4 @@
-# Hi, I'm Rohan Yadav! 👋
+<h1 align="center">Hi, I'm Rohan Yadav! 👋</h1>
 
 🎓 MSc Data Science and Artificial Intelligence student at Aston University, Birmingham, UK.
 
