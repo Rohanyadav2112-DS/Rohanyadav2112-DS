@@ -12,14 +12,6 @@ I'm passionate about **Data Science, Machine Learning, and Data Analytics**. I e
 - 📫 **Contact:** [Email me](mailto:yrohan2112@gmail.com).
 - 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rohan-yadav21/).
 
-## 🛠️ Skills & Technologies
-
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Excel
-- **Visualisation:** Matplotlib, Power BI
-- **Machine Learning:** Scikit-learn, Linear Regression, Random Forest
-- **Tools:** Jupyter Notebook, Git, GitHub
-
 ## 🤝 Connect with me
 
 I'm always happy to connect with fellow students, data professionals, and people interested in Data Science and AI!
